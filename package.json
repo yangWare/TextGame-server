@@ -1,0 +1,9 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "koa-body": "^2.5.0",
+    "koa-router": "^7.4.0",
+    "mongoose": "^5.0.7"
+  }
+}
